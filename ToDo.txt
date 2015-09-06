@@ -1,4 +1,6 @@
 /* very simple code */
+/* only for test */
+
 #include <stdio.h>
 int main()
 {
